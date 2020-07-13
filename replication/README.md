@@ -17,3 +17,5 @@ Here, you can also find and download our results (csv files):
 </ul>
 
 ## Dataset
+
+To perform our study, we used a sample of open-source projects hosted in GitHub. <a href="https://github.com/leusonmario/BuildConflicts/tree/master/replication/sample.csv" target="_blank" >Here</a> you can find the list of projects we used.
